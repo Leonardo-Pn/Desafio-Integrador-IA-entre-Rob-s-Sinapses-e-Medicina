@@ -1,0 +1,39 @@
+sintoma_1,sintoma_2,condicao_associada
+dor no peito,aperto no peito,Condição Cardiovascular A
+cansaço constante,fadiga,Condição Cardiovascular B
+falta de ar,dificuldade para respirar,Condição Respiratória A
+dor de cabeça forte,sensibilidade à luz,Condição Neurológica A
+tosse seca,febre alta,Condição Respiratória B
+tontura intensa,visão turva,Condição Neurológica B
+náusea,dor no estômago,Condição Digestiva A
+dor nas articulações,dor muscular,Condição Musculoesquelética A
+palpitações,coração acelerado,Condição Cardiovascular C
+garganta inflamada,dor ao engolir,Condição Infecciosa A
+coriza,nariz entupido,Condição Infecciosa A
+dor no peito,falta de ar,Condição Cardiovascular A
+dor no peito,coração acelerado,Condição Cardiovascular C
+cansaço constante,falta de ar,Condição Cardiovascular B
+fadiga,palpitações,Condição Cardiovascular B
+dificuldade para respirar,tosse seca,Condição Respiratória A
+tosse seca,garganta inflamada,Condição Respiratória B
+febre alta,dor muscular,Condição Infecciosa B
+febre alta,calafrios,Condição Infecciosa B
+dor de cabeça forte,tontura intensa,Condição Neurológica A
+dor de cabeça forte,visão turva,Condição Neurológica A
+sensibilidade à luz,náusea,Condição Neurológica C
+tontura intensa,desmaio,Condição Neurológica B
+náusea,vômito,Condição Digestiva A
+dor no estômago,perda de apetite,Condição Digestiva B
+diarreia,dor abdominal,Condição Digestiva B
+azia,queimação no estômago,Condição Digestiva C
+dor nas articulações,rigidez ao acordar,Condição Musculoesquelética A
+dor muscular,fraqueza nas pernas,Condição Musculoesquelética B
+dor nas costas,dor na coluna,Condição Musculoesquelética C
+coração acelerado,ansiedade,Condição Cardiovascular C
+palpitações,tontura intensa,Condição Cardiovascular C
+dor ao engolir,rouquidão,Condição Infecciosa A
+coriza,espirros,Condição Alérgica A
+coceira nos olhos,olhos vermelhos,Condição Alérgica A
+manchas na pele,coceira,Condição Dermatológica A
+inchaço nas pernas,cansaço constante,Condição Cardiovascular B
+sede excessiva,urinar com frequência,Condição Metabólica A
